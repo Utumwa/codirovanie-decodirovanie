@@ -1,0 +1,9 @@
+C:\Users\zada\Desktop\Codirovanie\Decoding\Decoding\bin\Debug\Decoding.exe.config
+C:\Users\zada\Desktop\Codirovanie\Decoding\Decoding\bin\Debug\Decoding.exe
+C:\Users\zada\Desktop\Codirovanie\Decoding\Decoding\bin\Debug\Decoding.pdb
+C:\Users\zada\Desktop\Codirovanie\Decoding\Decoding\obj\Debug\Decoding.Form1.resources
+C:\Users\zada\Desktop\Codirovanie\Decoding\Decoding\obj\Debug\Decoding.Properties.Resources.resources
+C:\Users\zada\Desktop\Codirovanie\Decoding\Decoding\obj\Debug\Decoding.csproj.GenerateResource.cache
+C:\Users\zada\Desktop\Codirovanie\Decoding\Decoding\obj\Debug\Decoding.csproj.CoreCompileInputs.cache
+C:\Users\zada\Desktop\Codirovanie\Decoding\Decoding\obj\Debug\Decoding.exe
+C:\Users\zada\Desktop\Codirovanie\Decoding\Decoding\obj\Debug\Decoding.pdb
